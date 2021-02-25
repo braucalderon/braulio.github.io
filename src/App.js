@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        
         <p> My name is Braulio and I am mastering React !
           <span style={{fontSize: '6vh'}}> 🤪 </span>
         </p>
